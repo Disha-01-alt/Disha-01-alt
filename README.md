@@ -99,16 +99,6 @@ Most of my recent work lives in private repos (chardi.ai's platform, some Sendlu
 - **1,300+ contributions in 2026**, mainly on chardi.ai's tender intelligence platform
 - **600+ contributions in 2025** across personal projects and coursework
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-01-alt&layout=compact&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Disha-01-alt&hide_border=true" />
-</p>
-
-<sub>Streak stats reflect public contributions only unless "include private contributions" is enabled in GitHub profile settings.</sub>
-
 ---
 
 ### Achievements
