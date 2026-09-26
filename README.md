@@ -14,14 +14,16 @@
 
 ### About me
 
-I'm a CS student who works on AI systems in production, not just in notebooks. At **chardi.ai** I build the tender intelligence pipeline for a government procurement platform: crawling, document extraction, embeddings, semantic retrieval and opportunity scoring, running on real procurement data. Before that I worked on a wellness platform at GOQii and RAG pipelines at Sendlume.
+At **chardi.ai**, I build the tender intelligence pipeline for a government procurement platform: document extraction, embeddings, semantic retrieval and opportunity scoring, running on real procurement data. I've also downloaded and run Mistral 7B locally, building an offline fact-checking pipeline over 18,000+ verses rather than leaning on an API.
+
+Before chardi.ai, I worked on a wellness platform at GOQii and RAG pipelines at Sendlume.
 
 What I'm mostly thinking about: retrieval quality, how you structure data for an LLM to use well, and when fine-tuning actually beats prompting.
 
 - 🔭 Currently building: LLM extraction and semantic matching pipelines at chardi.ai
-- 🌱 Currently learning: AI engineering and applied evals
+- 🌱 Currently learning: applied evals and knowledge graphs for structured retrieval
 - 💬 Ask me about: RAG, embeddings, prompt and system design, semantic search
-- 📫 Reach me: dishasahu786forstudy@gmail.com
+- 📫 Reach me: [dishasahu786forstudy@gmail.com](mailto:dishasahu786forstudy@gmail.com)
 
 ---
 
@@ -44,7 +46,7 @@ What I'm mostly thinking about: retrieval quality, how you structure data for an
 <td width="50%" valign="top">
 
 **🔍 Ramayana Fact-Checker**
-Retrieval + LLM validation pipeline over 18,229 Valmiki Ramayana verses. SBERT embeddings indexed in FAISS surface the relevant verses, then a locally run Mistral 7B judges whether they support a claim — fully offline.
+Retrieval + LLM validation pipeline over 18,229 Valmiki Ramayana verses. SBERT embeddings indexed in FAISS surface the relevant verses, then a locally run Mistral 7B judges whether they support a claim, fully offline.
 `Python` `SBERT` `FAISS` `Mistral 7B`
 [Repo →](https://github.com/Disha-01-alt/IYD_2025_Hackathon)
 
@@ -62,7 +64,7 @@ Certificate verification system: document parsing + OpenCV/YOLO checks, surfaced
 <td width="50%" valign="top">
 
 **📚 UTMT Learning Platform**
-FastAPI backend for a learning platform, combining BM25 keyword ranking with pgvector similarity search so learners find the right module whether they search loosely or exactly.
+FastAPI backend for a learning platform. Chose hybrid BM25 + pgvector search over pure vector search, since exact-term queries were failing on vector search alone.
 `FastAPI` `pgvector` `PostgreSQL`
 [Repo →](https://github.com/Disha-01-alt/Under-The-Mango-Tree)
 
@@ -83,7 +85,7 @@ Students submit career interests through a form; responses land in PostgreSQL an
 <br>
 
 - **AI Index Analysis 2024** — comparative analysis of AI adoption across countries. [LinkedIn](https://www.linkedin.com/posts/disha-sahu-a1a17b301_artificialintelligence-aiindex-techtrends-activity-7291321892790009856-fXF8) · [Flourish](https://public.flourish.studio/visualisation/21378366/)
-- **LinkedIn Network Analysis** — graph analysis of a student–company network using degree metrics and random walks. [Repo](https://github.com/Disha-01-alt/Linkedin-Network-Analysis)
+- **LinkedIn Network Analysis** — graph analysis of a student-company network using degree metrics and random walks. [Repo](https://github.com/Disha-01-alt/Linkedin-Network-Analysis)
 - **Stack Overflow Trends Dashboard** — [Live demo](https://melodic-salamander-ac9eb8.netlify.app/)
 - **Graph & Tree Algorithms Notebook** — worked examples of core graph/tree algorithms. [Repo](https://github.com/Disha-01-alt/Graph-and-Tree-Algorithms-Tutorial)
 - **EcoMonitor** — real-time air quality monitoring app. [Live demo](https://admirable-frangipane-21d5ff.netlify.app/) · [Repo](https://github.com/Disha-01-alt/EcoBackend)
@@ -92,19 +94,11 @@ Students submit career interests through a form; responses land in PostgreSQL an
 
 ---
 
-### GitHub activity
-
-Most of my recent work lives in private repos (chardi.ai's platform, some Sendlume code), so the usual stats widgets undercount it. For an accurate picture:
-
-- **1,300+ contributions in 2026**, mainly on chardi.ai's tender intelligence platform
-- **600+ contributions in 2025** across personal projects and coursework
-
----
-
 ### Achievements
 
 - 🏅 SIH 2025 Finalist — Authenticity Validator for Academia
 - 🎓 Outstanding Student Scholarship, Sitare University
 - 🥈 2nd Place, Debate Competition 2024 — [certificate](https://www.linkedin.com/posts/disha-sahu-a1a17b301_aiclub-debateclub-achievement-activity-7291842674733600768-CE1E)
+- 📈 1,300+ contributions in 2026
 
-<p align="center"><i>Open to conversations about applied AI roles — feel free to reach out.</i></p>
+<p align="center"><i>Open to conversations about applied AI roles, feel free to reach out.</i></p>
