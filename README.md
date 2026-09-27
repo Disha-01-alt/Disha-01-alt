@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Disha 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=AI+Engineer+in+training;LLM+pipelines+%2B+RAG+%2B+Semantic+Search;Building+a+tender+intelligence+platform+at+chardi.ai" alt="typing animation" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/disha-sahu-a1a17b301/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Disha-01-alt/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:dishasahu786forstudy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
